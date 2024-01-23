@@ -22,11 +22,11 @@ Step 1: Navigate Active Directory to add users in IT department in HQ-NYC. <br/>
 <img src="https://i.imgur.com/WXk9asJ.png" height="80%" width="80%" alt="Add Users"/>
 <br />
 <br />
-Step 2: Remove Users utilizing the search funtion in Employee Organization Unit(OU). <br/>
+Step 2: Remove Users utilizing the search function in the Employee Organization Unit(OU). <br/>
 <img src="https://i.imgur.com/43LikXo.png" height="80%" width="80%" alt="Change device names"/>
 <br />
 <br />
-Step 3: Unlock Account for user.<br/>
+Step 3: Unlock the Account for the user.<br/>
 <img src="https://i.imgur.com/BUSmwTA.png" height="80%" width="80%" alt="Add the cabling"/>
 <br />
 <img src="https://i.imgur.com/OgQqJmO.png" height="80%" width="80%" alt="Add the cabling"/>
@@ -46,7 +46,7 @@ Step 2: Move New Hires to "Analyst" OU<br />
 <img src="https://i.imgur.com/uW07TvY.png" height="80%" width="80%" alt="enable DHCP"/>  
 <br />
 <br />
-Step 2: Remove Access to comman Prompt<br/>
+Step 2: Remove Access to command Prompt<br/>
 <img src="https://i.imgur.com/ckTIuRU.png" height="80%" width="80%" alt="Configure the Laptop"/>
 <br />
 <br />
